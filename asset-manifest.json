@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CV/static/css/main.8ecf92e8.chunk.css",
+    "main.js": "/CV/static/js/main.3b1be8b8.chunk.js",
+    "main.js.map": "/CV/static/js/main.3b1be8b8.chunk.js.map",
+    "runtime~main.js": "/CV/static/js/runtime~main.50de0404.js",
+    "runtime~main.js.map": "/CV/static/js/runtime~main.50de0404.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/CV/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.c0f978d6.chunk.js": "/CV/static/js/2.c0f978d6.chunk.js",
+    "static/js/2.c0f978d6.chunk.js.map": "/CV/static/js/2.c0f978d6.chunk.js.map",
+    "index.html": "/CV/index.html",
+    "precache-manifest.d144acd4adc40e7422d785e7c8530564.js": "/CV/precache-manifest.d144acd4adc40e7422d785e7c8530564.js",
+    "service-worker.js": "/CV/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/CV/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.8ecf92e8.chunk.css.map": "/CV/static/css/main.8ecf92e8.chunk.css.map",
+    "static/media/Chalmers.png": "/CV/static/media/Chalmers.daa4ebfd.png",
+    "static/media/KalleAnka.png": "/CV/static/media/KalleAnka.17eee42f.png",
+    "static/media/kth.png": "/CV/static/media/kth.8c5ac0b2.png",
+    "static/media/vitrolife.png": "/CV/static/media/vitrolife.df262409.png"
+  }
+}
