@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Id": 1,
+    "CompanyName": "Chalmers Tekniska Högskola",
+    "Logo": "Chalmers.png",
+    "JobTitle": "Forskare",
+    "StartDate": "Jan 2018",
+    "EndDate": "Apr 2020",
+    "Location": "Göteborg, Sverige",
+    "JobDuties": [
+      "Arbetade i ett forskarteam i avdelningen för Systembiologi, där arbetet bestod av mesta dels genmanipulation av mikroorganismer."
+    ]
+  },
+  {
+    "Id": 2,
+    "CompanyName": "Vitrolife",
+    "Logo": "vitrolife.png",
+    "JobTitle": "Kvalitetsingenjör",
+    "StartDate": "June 2017",
+    "EndDate": "Dec 2017",
+    "Location": "Görborg, Sverige",
+    "JobDuties": [
+      "Jobbade inom QC-avdelningen där både medicintekniska instumenter för IVF ändamål och spermakvalité kontrollerades"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "NBI/Handelsakademin",
+    "Logo": "nbi.png",
+    "Major": "Systemutveckling",
+    "Degree": "YH-Utbildning",
+    "StartDate": "Sep 2020",
+    "EndDate": "Jun 2022",
+    "Location": "Göteborg, Sverige"
+  },
+  {
+    "Id": 2,
+    "Name": "Kungliga Tekn. Högskolan",
+    "Logo": "kth.png",
+    "Major": "Industriell miljöbioteknik",
+    "Degree": "Civilingenjörsprogrammet",
+    "StartDate": "Aug 2012",
+    "EndDate": "Dec 2016",
+    "Location": "Stockholm, Sverige"
+  }
+]

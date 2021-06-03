@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Id": 1,
+    "Category": "Programmeringsspråk",
+    "SkillsList": [
+      "C# (.NET, MVC)",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "SQL",
+      "JSON",
+      "XML"
+    ]
+  },
+  {
+    "Id": 2,
+    "category": "Språk",
+    "skillsList": [
+      "Svenska",
+      "Engelska",
+      "Franska",
+      "Marockanska"
+    ]
+  }
+
+]
